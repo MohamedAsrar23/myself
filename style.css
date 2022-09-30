@@ -1,0 +1,168 @@
+body {
+  background-color: #F8EDE3;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  overflow-x: hidden;
+  cursor: pointer;
+}
+
+.nav {
+  padding-top: 10px;
+}
+
+.header {
+  text-align: left;
+  position: relative;
+  left: 65px;
+  font-weight: lighter;
+  padding-top: 5px;
+  color: #483838;
+}
+
+.header:hover {
+  color: #EF5B0C;
+}
+
+span {
+  color: #EF5B0C;
+}
+
+span:hover {
+  color: #483838;
+}
+
+.icon {
+  color: #42032C font-family: 'Montserrat', sans-serif;
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  left: 0;
+  margin-left: 20px;
+  padding-top: 20px;
+}
+
+.head1 {
+  color: #7D6E83;
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+  margin: 42px auto 0;
+}
+
+.head1:hover {
+  color: #EF5B0C;
+}
+
+.head2 {
+  color: #7D6E83;
+  font-size: 1.25rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  margin: 5px auto 50px;
+}
+
+.head2:hover {
+  color: #224B0C
+}
+
+.main-image {
+  margin-bottom: 30px;
+}
+
+.hr {
+  border-style: dotted;
+  border-width: 5px;
+  border-bottom: 0;
+  width: 30px;
+  border-color: #D0B8A8;
+
+}
+
+.middle-container {
+  background-color: #7D6E83;
+  padding-bottom: 30px;
+}
+
+.head3{
+  color: white;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: strong;
+  padding-top: 20px;
+}
+
+.man {
+  height: 200px;
+  width: 200px;
+}
+
+.para {
+  margin-left: auto;
+  margin-right: auto;
+  width: 21.25rem;
+  color: #F8EDE3;
+  line-height: 25px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.head3-2 {
+  color: #483838;
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: strong;
+  padding-top: 20px;
+}
+
+.skills {
+  height: 200px;
+  width: 200px;
+}
+
+.para-2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 21.25rem;
+  line-height: 25px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  color: #06283D;
+}
+.foot{
+  background-color: #7D6E83;
+  padding: 20px 0;
+}
+.c1{
+  height: 20px;
+  width: 20px;
+  
+
+}
+.c2{
+  height: 20px;
+  width: 20px;
+}
+.c3{
+  height: 20px;
+  width: 20px;
+}
+.c4{
+  height: 20px;
+  width: 20px;
+}
+
+
+
+
+.con{
+
+    color: white;
+    font-size: 1.25rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    margin-bottom: 45px;
+
+
+  }
+
+}
